@@ -16,3 +16,7 @@ learning will continue
 its all about hard working
 yes it is
 
+## Local development
+1. Open Index.htiml in your browser
+
+
